@@ -1,7 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" class="w-32 h-32 text-white fill-current logo-color-target transition-colors duration-300" viewBox="0 0 100 100" style="color: rgb(230, 95, 43); fill: rgb(230, 95, 43);">
-                            <!-- Minimalist sharp bold A with diagonal negative space asphalt split -->
-                            <path d="M 50,10 L 85,85 L 65,85 L 56,64 L 37,20 L 50,10 Z"/>
-                            <path d="M 33,55 L 44,55 L 49,66 L 31,66 L 15,85 L 35,85 L 48,55 Z" class="opacity-90"/>
-                            <!-- Crack negative space line -->
-                            <line x1="20" y1="75" x2="80" y2="35" stroke="white" stroke-width="4" class="text-black bg-target-stroke"/>
-                        </svg>
