@@ -1,0 +1,81 @@
+/*Importar tipografias*/
+@import url('https://fonts.googleapis.com/css2?family=Google+Sans:ital,opsz,wght@0,17..18,400..700;1,17..18,400..700&display=swap');
+
+/*Body, todos con la misma tipografia*/
+.body{
+    font-family: "Google Sans", sans-serif;
+}
+
+/*Clases de diversas etiquetas*/
+/*Clase centro*/
+.centro{
+    text-align: center;
+}
+
+/*Todos los p tienen 1 rem*/
+p{
+    font-size: 1rem
+}
+
+/*Todos los h1 tienen estos valores*/
+h1{
+    font-weight: 600;
+    color: #FFFFFF;
+    text-align: center;
+}
+
+/*Header, con estos valores*/
+.encabezado{
+    background-color: #1F4068;
+    font-size: 1rem;
+}
+
+/*Main, color de fondo medio gris*/
+.main{
+    background-color: #EAEAEA;
+}
+
+/*Footer, con valores de color de fondo, de letra y weight de textos*/
+.pie{
+    background-color: #1F4068;
+    font-weight: 400;
+    color: #FFFFFF;
+}
+
+/*Clase descripción usada para los h3, 4, 5 y 6*/
+.descripcion{
+    color: #FFFFFF;
+    font-weight: 400;
+    font-size: 1rem;
+    text-align: center;
+}
+
+/*Clase para nav*/
+.nav{
+    font-weight: 400;
+    color: #FFFFFF;
+}
+
+/*Clase para los productos*/
+.producto{
+    font-weight: 400;
+    font-size: 1rem;
+    text-align: center;
+}
+
+/*Clase para los precios*/
+.precio{
+    color: #1E8449;
+    font-weight: 600;
+}
+
+/*Borde para mapa*/
+.iframe{
+    border: none;
+}
+
+/*Clase para destacar contenido*/
+.destacar{
+    font-weight: 600;
+    font-size: 1.2rem;
+}
